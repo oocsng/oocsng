@@ -5,7 +5,6 @@
 [![C++](https://img.shields.io/badge/-C%2B%2B-555555?style=flat&label=%20&labelColor=00599C&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/-Java-555555?style=flat&label=%20&labelColor=ED8B00&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/-Python-555555?style=flat&label=%20&labelColor=3776AB&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/-Go-555555?style=flat&label=%20&labelColor=00ADD8&logo=go&logoColor=white)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-555555?style=flat&label=%20&labelColor=CE422B&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 AI/ML/SWE Enthusiast
