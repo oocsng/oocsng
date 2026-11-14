@@ -12,3 +12,4 @@ AI/ML/SWE Enthusiast
 | Project | Description |
 | :--- | :--- |
 | **[cppdesk](https://github.com/oocsng/cppdesk)** | Fast, lightweight remote desktop for Windows inspired by RustDesk |
+| **[OOP-AI-Agent](https://github.com/oocsng/OOP-AI-Agent)** | Modular C++26 ReAct AI agent framework |
